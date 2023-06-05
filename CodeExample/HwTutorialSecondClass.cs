@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Tutorial
+namespace Tutorial.CodeExample
 {
     public class HwTutorialSecondClass
     {

@@ -1,11 +1,6 @@
 using System;
-using System.ComponentModel.DataAnnotations;
-using System.Globalization;
-using System.Net.Http.Headers;
-using System.Reflection.Metadata.Ecma335;
-using Microsoft.VisualBasic.CompilerServices;
 
-namespace Tutorial
+namespace Tutorial.CodeExample
 {
     public class HwTutorialVideo
     {

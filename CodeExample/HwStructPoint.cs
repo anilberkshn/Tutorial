@@ -1,6 +1,4 @@
-using System.Drawing;
-
-namespace Tutorial
+namespace Tutorial.CodeExample
 {
     public struct HwStructPoint
     {

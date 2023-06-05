@@ -1,6 +1,6 @@
 using System;
 
-namespace Tutorial
+namespace Tutorial.CodeExample
 {
     public class GenericType<T>
     {

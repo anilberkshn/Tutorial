@@ -1,4 +1,4 @@
-namespace Tutorial
+namespace Tutorial.CodeExample
 {
     public class HwSlide
     {
